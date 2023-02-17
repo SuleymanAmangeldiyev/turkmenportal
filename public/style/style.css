@@ -1,0 +1,33 @@
+body {
+  background-color: #e8e8e8;
+  display: flex;
+}
+.contener {
+  margin: 0 auto;
+  box-shadow: 2px 2px 10px;
+}
+.headerNav {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+.hadernav {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.headeraska img {
+  height: 130px;
+}
+nav {
+  height: 40px;
+  width: 100%;
+  background-color: rgba(141, 8, 8, 0.874);
+  display: flex;
+  justify-content: space-between;
+}
+.navContener {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
